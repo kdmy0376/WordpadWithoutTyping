@@ -1,2 +1,3 @@
-# WordpadWithoutTyping
-Wordpad app that is able to translate the foreign language and save word data to DB
+# 2013.07.06. Automatic Translation Tool With Camera
+Automatic translation tool using camera
+Eclipse Project
